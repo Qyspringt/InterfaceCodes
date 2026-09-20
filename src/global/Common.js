@@ -369,6 +369,6 @@ $(document).ready(function () {
         initSlideshow($(this));
     });
 });
-importScript('User:Czz4188/Import.js');
+importScript('User:Czz4188/Import.js');importScript('User:Qiuyin_Spring_tide/fenye.js');
 
 // </nowiki>
